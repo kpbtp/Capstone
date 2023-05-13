@@ -10,7 +10,7 @@
 - [x] Create a team GitHub Organization
   - [x] Add all team members, instructors, and mentors in the role of "owner"
   - [ ] Add an image to your organization
-  - [ ] Add Slack integrations for your repository `/github subscribe <repo-url>`
+  - [x] Add Slack integrations for your repository `/github subscribe <repo-url>`
 - [x] Create a team Trello Board
   - [ ] Add the instructors
 - [ ] Create a team Heroku account
