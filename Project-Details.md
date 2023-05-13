@@ -3,11 +3,11 @@
 **Planning is critical to the success of your project.** Proper planning can help avoid wasting time and ensure your team is successful.
 
 ### Prep To Do List
-- [ ] Create a team name
-- [ ] Create a slack channel within the LEARN workspace
-  - [ ] Add the instructors
-- [ ] Create a team email address
-- [ ] Create a team GitHub Organization
+- [x] Create a team name
+- [x] Create a slack channel within the LEARN workspace
+  - [x] Add the instructors
+- [x] Create a team email address
+- [x] Create a team GitHub Organization
   - [ ] Add all team members, instructors, and mentors in the role of "owner"
   - [ ] Add an image to your organization
   - [ ] Add Slack integrations for your repository `/github subscribe <repo-url>`
