@@ -8,10 +8,10 @@
   - [x] Add the instructors
 - [x] Create a team email address
 - [x] Create a team GitHub Organization
-  - [ ] Add all team members, instructors, and mentors in the role of "owner"
+  - [x] Add all team members, instructors, and mentors in the role of "owner"
   - [ ] Add an image to your organization
   - [ ] Add Slack integrations for your repository `/github subscribe <repo-url>`
-- [ ] Create a team Trello Board
+- [x] Create a team Trello Board
   - [ ] Add the instructors
 - [ ] Create a team Heroku account
   - [ ] Be sure to keep track of the username and password as we will need it for deployment
