@@ -12,22 +12,22 @@
 ## Requirements:
 
 - [] two table minumum: 
-> User(login, email, genre_preferences, password, password_verification)
+> User(login, email, genre_preferences, password, password_verification)<br>
 > Anime (name, year, genres, runtime, synopsys, seasons, episodes, studio) Stretch goal: add director, actors and others.
 
-- [] user authentication with device:
-> We can have a landing page for everyone
->> that allows login/signup
->> Information about the application itself
+- [] user authentication with devise:
+> We can have a landing page for everyone<br>
+>> that allows login/signup<br>
+>> Information about the application itself<br>
 >> stretch goal (SG): have a caroussel for the landing 
 
 > Signup:
 >> Add a preferences checklist
 
 - [] CRUD:
-> Create: account creation, watchlist creation, multiple watchlist (SG)
-> Read: index, protected index, api that populates the index
-> Update: personal list updating, personal info updating (SG)
+> Create: account creation, watchlist creation, multiple watchlist (SG)<br>
+> Read: index, protected index, api that populates the index<br>
+> Update: personal list updating, personal info updating (SG)<br>
 > Delete: delete a personal list, delete account (SG)
 
 
