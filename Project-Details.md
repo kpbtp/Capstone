@@ -13,9 +13,9 @@
   - [x] Add Slack integrations for your repository `/github subscribe <repo-url>`
 - [x] Create a team Trello Board
   - [ ] Add the instructors
-- [ ] Create a team Heroku account
+- [ ] Create a team Render account
   - [ ] Be sure to keep track of the username and password as we will need it for deployment
-- [ ] Decide on Developer Roles
+- [x] Decide on Developer Roles
 
 ### Green Light Meeting
 - [ ] Elevator pitch - 30 sec summary of the app
