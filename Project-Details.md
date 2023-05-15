@@ -12,7 +12,7 @@
   - [x] Add an image to your organization
   - [x] Add Slack integrations for your repository `/github subscribe <repo-url>`
 - [x] Create a team Trello Board
-  - [ ] Add the instructors
+  - [x] Add the instructors
 - [ ] Create a team Render account
   - [ ] Be sure to keep track of the username and password as we will need it for deployment
 - [x] Decide on Developer Roles
