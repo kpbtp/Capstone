@@ -2,12 +2,19 @@
 
 ### Project Requirements
 
-- React in Rails application
+- React application and Rails application
 - Full CRUD functionality
+  - Create: account creation, watchlist creation, multiple watchlist (SG)
+  - Read: index, protected index, api that populates the index
+  - Update: personal list updating, personal info updating
+  - Delete: delete anime from personal list, delete a personal list / delete account (SG)
 - User authentication with Devise (signup, login, logout)
+  - signup: email, password, verified_password, genre_preferences checklist(SG), login_name(SG)
 - Minimum of two database tables (one will be the Devise User table)
+  - User (email: string, genre_preferences: text?, password: string, password_verification: string)
+  - Anime (name, year, genres, runtime, synopsys, seasons, episodes, studio) Stretch goal: add director, actors and others
 - Testing - 60% code coverage
-- Deployed to Heroku
+- Deployed to ??
 - A [well written README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d) with link to live application
 - "About Us" page
 - Live demo with the full team
@@ -18,6 +25,8 @@
 - Accessible design features
 - Continuous integration
 - Incorporate an external API
+- Multiple lists per user
+- Delete personal account
 
 ### Things to Think About
 
@@ -28,6 +37,31 @@
 - Work on a feature or part of the app you’re not completely comfortable with
 - Organization and clear communication is the key to a successful team experience
 - Make sure everyone contributes and feels included
+___
+
+### Idea spitballing:
+
+- Anime type app
+- what animes have dub or not/ subs or not
+- IMDB clone?
+- Auto generate suggestions
+- Anime finder/engine
+- Have watched tracking
+- Account creation ability
+
+- Landing page for everyone (/)
+  - allows login/signup
+  - Information about the application itself
+  - Have a caroussel with current trends (SG)
+
+- User route (/user_index):
+  - Allows list creation
+  - Allows list editing
+  - Allows list deletion
+  - Allows personal info editing (email, genre_preferences)
+
+- About us route (/about_us)
+___
 
 ### Project Demos - 10 min total
 
@@ -67,6 +101,3 @@ Wrap-up (2 min)
 - Each person share something you learned
 - Each person share some advice for the next cohort
 
----
-
-[Back to Syllabus](../README.md#unit-ten-capstone-project-mvp)
