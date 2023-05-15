@@ -1,14 +1,14 @@
-Team Name
+**Team Name**
 
-** Team Composition
+**Team Composition**
 
 Product Manager: Borja Xaire
 Project Manager: Brandon Johnwell
 Tech Lead: DeMario Ward
 Design Lead: Jose Salas
 
-Project Overview
+**Project Overview**
 
-Project Technologies
+**Project Technologies**
 
 
