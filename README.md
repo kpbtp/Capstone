@@ -1,6 +1,6 @@
 Team Name
 
-**Team Composition
+** Team Composition
 
 Product Manager: Borja Xaire
 Project Manager: Brandon Johnwell
