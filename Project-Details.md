@@ -18,19 +18,19 @@
 - [x] Decide on Developer Roles
 
 ### Green Light Meeting
-- [ ] Elevator pitch - 30 sec summary of the app
-- [ ] Wireframes - visual representations of all the pages your user will see for your MVP
-- [ ] DB schema drawn out with column names, data types, and table relationships
-- [ ] CRUD actions
-- [ ] User stories for your MVP on Trello
+- [x] Elevator pitch - 30 sec summary of the app
+- [x] Wireframes - visual representations of all the pages your user will see for your MVP
+- [x] DB schema drawn out with column names, data types, and table relationships
+- [X] CRUD actions
+- [x] User stories for your MVP on Trello
 
 ### Trello Board
 - Swim lanes
-  - [ ] Icebox
-  - [ ] MVP
-  - [ ] Doing
-  - [ ] Code review
-  - [ ] Done
+  - [x] Icebox
+  - [x] MVP
+  - [x] Doing
+  - [x] Code review
+  - [x] Done
 
 ### Team Name
 Your team name will not be the same as your app name, so get creative!
