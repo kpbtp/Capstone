@@ -1,6 +1,6 @@
 # Team Name
 
-Kevin's Peanut Butter Treasure Planet!
+* Kevin's Peanut Butter Treasure Planet! *
 
 # Team Composition
 
@@ -11,7 +11,7 @@ Design Lead: Jose Salas<br>
 
 # Project Overview 
 
-### Elevator Pitch
+### Elevator Pitch:
 
 Introducing Ara, the Anime Recommendation App (ARA), the ultimate destination for anime enthusiasts. Ara is a groundbreaking online platform dedicated solely to the world of anime. Our purpose is simple: to provide a comprehensive database of anime content and personalized recommendations.
 
@@ -21,12 +21,20 @@ ARA goes beyond a simple database. We understand that each anime fan has unique 
 
 Join us at ARA and embark on an unforgettable journey into the world of anime.
 
-### Wireframe
+### Wireframe:
+
 Wireframe link: https://www.figma.com/file/FWk28WnjSsFyIx4iP0Tuvs/Untitled?type=design&node-id=2%3A2&t=Q2UQ3KTITRCYweBZ-1
 
-### Database Schema
+### Database Schema:
 
 ![DB Schema](https://github.com/kpbtp/Capstone/assets/127794065/a60c4633-1df0-4f87-a9fe-812eacba5c77)
+
+### Crud Actions:
+
+Create: account creation, watchlist creation, multiple watchlist (SG)<br>
+Read: index, protected index, api that populates the index<br>
+Update: personal list updating, personal info updating<br>
+Delete: delete anime from personal list, delete a personal list / delete account (SG)<br>
 
 
 # Project Technologies
