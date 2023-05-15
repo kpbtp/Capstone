@@ -21,6 +21,9 @@ ARA goes beyond a simple database. We understand that each anime fan has unique 
 
 Join us at ARA and embark on an unforgettable journey into the world of anime.
 
+### Wireframe
+Wireframe link: https://www.figma.com/file/FWk28WnjSsFyIx4iP0Tuvs/Untitled?type=design&node-id=2%3A2&t=Q2UQ3KTITRCYweBZ-1
+
 ### Database Schema
 
 ![DB Schema](https://github.com/kpbtp/Capstone/assets/127794065/a60c4633-1df0-4f87-a9fe-812eacba5c77)
