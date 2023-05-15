@@ -1,6 +1,6 @@
 # Team Name
 
-* Kevin's Peanut Butter Treasure Planet! *
+**Kevin's Peanut Butter Treasure Planet!**
 
 # Team Composition
 
