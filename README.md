@@ -27,7 +27,25 @@ Wireframe link: https://www.figma.com/file/FWk28WnjSsFyIx4iP0Tuvs/Untitled?type=
 
 ### Database Schema:
 
-![DB Schema](https://github.com/kpbtp/Capstone/assets/127794065/a60c4633-1df0-4f87-a9fe-812eacba5c77)
+#### Models' Relationships:
+
+class User < ApplicationRecord<br>
+  has_many : anime_lists<br>
+  has_many : animes, through: :anime_lists<br>
+end<br>
+<br>
+class AnimeList < ApplicationRecord<br>
+  belongs_to :user <br>
+  belongs_to :anime <br>
+end<br>
+<br>
+class Anime < ApplicationRecord<br>
+  has_many :anime_lists<br>
+  has_many :users, through: :anime_lists<br>
+end<br>
+<br>
+
+![DB Schema](https://github.com/kpbtp/Capstone/assets/127794065/aedc3dfa-87e5-46a2-86ce-6ff5718c9d41)
 
 ### Crud Actions:
 
