@@ -57,4 +57,13 @@ Delete: delete anime from personal list, delete a personal list / delete account
 
 # Project Technologies
 
+### Backend 
+- Ruby
+- Rails
+
+### Frontend
+- React
+- Bootstrap
+- Reacstrap
+
 
