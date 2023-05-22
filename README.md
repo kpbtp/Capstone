@@ -63,7 +63,9 @@ Delete: delete anime from personal list, delete a personal list / delete account
 
 ### Frontend
 - React
+- Tailwind
 - Bootstrap
 - Reacstrap
+- Three.js
 
 
