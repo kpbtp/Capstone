@@ -13,11 +13,15 @@ Design Lead: Jose Salas<br>
 
 ### Elevator Pitch:
 
-Introducing the Anime Recommendation App (ARA), the ultimate destination for anime enthusiasts. ARA is a groundbreaking online platform dedicated solely to the world of anime. Our purpose is simple: to provide a comprehensive database of anime content and personalized recommendations.
+Welcome to the Anime Repository App: ARA! The ultimate destination for anime enthusiasts. 
 
-At ARA, you can explore a vast library of anime titles, spanning across genres, eras, and styles. Our meticulously curated database includes detailed information about each series, including synopses, genres, and seasons. Whether you are a seasoned otaku or just starting your anime journey, ARA is the go-to place to discover your next obsession.
+ARA is a groundbreaking online platform dedicated solely to the world of anime. Our mission is simple: to provide you with a comprehensive database of anime content so that you can find what you like, not only what's currently popular. 
 
-ARA goes beyond a simple database. We understand that each anime fan has unique tastes and preferences. That is why our platform offers personalized recommendations tailored to your viewing history. With ARA, you can curate a personalized list of anime that matches your interests, ensuring that you never miss out on the next anime gem.
+Whether you love your 80's Crying Freeman or the latest Kimetsu No Yaiba; at ARA, you can explore our vast library of anime titles spanning across genres, eras, and styles. We provide you with the means to learn more about your favorite anime and add it to your own custom lists. 
+
+It doesn't matter if you are a seasoned otaku or just starting your anime journey, ARA is the go-to place to discover your next obsession.
+
+ARA goes beyond a simple database. We understand that each anime fan has unique tastes and preferences. With ARA, you can curate a personalized list of anime that matches your interests, ensuring that you never miss out on the next anime gem.
 
 Join us at ARA and embark on an unforgettable journey into the world of anime.
 
@@ -67,5 +71,6 @@ Delete: delete anime from personal list, delete a personal list / delete account
 - Bootstrap
 - Reacstrap
 - Three.js
+- Skybox AI
 
 
